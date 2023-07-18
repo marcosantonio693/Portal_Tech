@@ -1,5 +1,6 @@
-# Portal_Tech
-
+# TODOS EXERCICIOS SERÃO ALOCADO AQUI
+## Portal_Tech
+### PRIMEIRO EXERCICIO
 1. Pré-aqueça o forno: Ligue o forno e ajuste a temperatura para 180°C. Deixe-o pré-aquecer enquanto você prepara a massa.
 
 2. Prepare a forma: Unte uma forma redonda com manteiga ou margarina e polvilhe com farinha para evitar que o bolo grude. Certifique-se de cobrir toda a superfície da forma.
@@ -23,3 +24,7 @@
 11. Decore o bolo (opcional): Depois que o bolo estiver completamente frio, você pode decorá-lo com cobertura de chocolate, chantilly, frutas ou qualquer outra cobertura de sua preferência.
 
 12. Sirva e aproveite: Corte o bolo em fatias e sirva para desfrutar do seu delicioso bolo de chocolate caseiro!
+
+### SEGUNDO EXERCICO
+O aluno de Matemática  poderia ter trocado de lugar com um aluno de Português  na terceira posição da sala de aula. Nesse caso, a nova disposição ficaria assim:
+P P M P M P M P M P M P M P M P M P M P M P M M
